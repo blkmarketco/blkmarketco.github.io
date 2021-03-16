@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return c}));var r=n("mXGw"),a=n.n(r),o=n("Wbzz");function c(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Components of Graphi:"),a.a.createElement(o.a,{to:"/product/"}," Product "),a.a.createElement("br",null),a.a.createElement(o.a,{to:"/product-carousel/"}," Product Carousel"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-25b16e891c83fe927bf1.js.map
